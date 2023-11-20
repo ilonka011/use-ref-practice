@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/use-ref-practice/static/css/main.f2c695a6.css",
+    "main.js": "/use-ref-practice/static/js/main.3283ca31.js",
+    "static/js/787.c957b104.chunk.js": "/use-ref-practice/static/js/787.c957b104.chunk.js",
+    "index.html": "/use-ref-practice/index.html",
+    "main.f2c695a6.css.map": "/use-ref-practice/static/css/main.f2c695a6.css.map",
+    "main.3283ca31.js.map": "/use-ref-practice/static/js/main.3283ca31.js.map",
+    "787.c957b104.chunk.js.map": "/use-ref-practice/static/js/787.c957b104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c695a6.css",
+    "static/js/main.3283ca31.js"
+  ]
+}
